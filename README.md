@@ -1,1 +1,1 @@
-[![Squaretone](https://github.com/squaretone/squaretone/raw/main/img/profile_banner_2.jpg)](https://www.squaretone.com)
+[![Squaretone](https://github.com/squaretone/squaretone/raw/main/img/profile_banner_2.png)](https://www.squaretone.com)
